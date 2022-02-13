@@ -103,5 +103,3 @@ int main(void){
     system("pause");
     time_t b=time(NULL);
 }
-
-//git test
